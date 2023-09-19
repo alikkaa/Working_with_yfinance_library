@@ -1,1 +1,1 @@
-# API на Flask для работы с данными, написанное с помощью библиотеки Yfinance
+# Flask API for working with data, written using the Yfinance library
